@@ -3,7 +3,7 @@ Welcome to my GitHub Profile</h1>
 <p align="center">
 <p>
  Hi, I’m @kaanolgu
- <br />PhD student in Electrical & Electronics Engineering at University of Bristol
+ <br />PhD student in Electrical & Electronics Engineering @ University of Bristol
  <br /> Research Interests : Next-generation Multiprocessor Architectures for AI applications 
  <br /> Contact me via <a href="https://research-information.bris.ac.uk/en/persons/kaan-olgu">link</a>
 </p>
