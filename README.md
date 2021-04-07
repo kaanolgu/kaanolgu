@@ -4,7 +4,7 @@ Welcome to my GitHub Profile</h1>
 <p>
  Hi, I’m @kaanolgu
  <br />PhD student in Electrical & Electronics Engineering @ University of Bristol
- <br /> Research Interests : Next-generation Multiprocessor Architectures for AI applications 
+ <br /> Research Interests : Heterogeneous Computing,FPGAs
  <br /> Contact me via <a href="https://research-information.bris.ac.uk/en/persons/kaan-olgu">link</a>
 </p>
 <!---
