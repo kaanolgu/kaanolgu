@@ -21,7 +21,7 @@ Kaan Olgu</h1>
 ![Vitis 2021.1](https://img.shields.io/badge/Vitis_2021.1-05122A?style=flat&logo=xilinx&logoColor=E01F27)&nbsp;
 ![SDK 2018.2](https://img.shields.io/badge/SDK_2018.2-05122A?style=flat&logo=xilinx&logoColor=E01F27)&nbsp;
  
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanolgu&layout=compact)](https://github.com/kaanolgu/)
  
  <img alt="ORCiD" src="https://i0.wp.com/info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif?resize=16%2C16&ssl=1" align="left"/>
  
