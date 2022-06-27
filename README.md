@@ -24,7 +24,8 @@ Kaan Olgu</h1>
  
  
  <img alt="ORCiD" src="https://i0.wp.com/info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif?resize=16%2C16&ssl=1" align="left"/>
- [0000-0003-0351-2055](https://orcid.org/my-orcid?orcid=0000-0003-0351-2055)
+ 
+  [0000-0003-0351-2055](https://orcid.org/my-orcid?orcid=0000-0003-0351-2055)
  <br /> My research profile <a href="https://research-information.bris.ac.uk/en/persons/kaan-olgu">link</a>
 </p>
 <!---
