@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile!
-
 I’m a researcher and developer passionate about high-performance computing, graph algorithms, and scalable systems. This space features my latest work, projects, and academic contributions.
 
 ---
